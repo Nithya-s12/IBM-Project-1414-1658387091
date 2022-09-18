@@ -1,2 +1,1 @@
-# IBM-Project-1414-1658387091
-Smart Fashion Recommender Application
+Create a profile page using html,css and javascript
